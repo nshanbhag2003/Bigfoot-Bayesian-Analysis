@@ -1,6 +1,6 @@
 # Counting Sasquatch: A Bayesian Analysis of Reported Bigfoot Sightings
 
-This is the final project for **STAT GR 5224: Bayesian Statistics** with **Professor Dobrin Marchev**.
+This is the project for **STAT GR 5224: Bayesian Statistics** with **Professor Dobrin Marchev** at Columbia University.
 
 This project uses Bayesian count regression to study whether reported Bigfoot sightings show meaningful temporal structure rather than random noise. Using a BFRO-based dataset from Kaggle, we compare Poisson and Negative Binomial models to analyze seasonality, overdispersion, and long-run trends in monthly sighting counts.
 
